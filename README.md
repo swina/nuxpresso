@@ -19,21 +19,11 @@ You can create shareable blocks that can be used for rich editing experiences in
 
 The ultimate scope is to build a website that has the cost and time reduction of reusing well known information archetypes expressed as blocks (head, call for action, slider, footer, etc.).
 
-## Design concept
- 
+## Website
 
-- [**nuxpresso-nuxt**](https://github.com/swina/nuxpresso-nuxt) a static site generator based on NuxtJS
-- [**MOKAStudio**](https://github.com/swina/nuxpresso-moka) a visual blocks builder created to improve the websites creative experience for developers.
+Visit my [Official website](https://nuxpresso.vercel.app) to learn more about NUXPRESSO.
 
-Based on [Strapi CMS](https://strapi.io) it also takes advantages of the [Strapi CMS templates feature](https://strapi.io/documentation/developer-docs/latest/concepts/templates.html#templates) to set a custom configuration upon installation.
+## Documentation
 
-- [**nuxpresso-strapi-template**](https://github.com/swina/nuxpresso-strapi-template) a Strapi CMS template to configure Strapi working with nuxpresso 
+Checkout the [official documentation](https://nuxpresso-docs.vercel.app) to learn how it works and how to use it.
 
-The following diagram shows the relations between the 3 apps.
-
-<img src="https://res.cloudinary.com/moodgiver/image/upload/v1607699698/nuxpresso_concept_last_e14ca7a8df.jpg"/>
-
-
-## Open source and free
-
-NUXPRESSO as a website builder and generator with full design control is completely open source and free.
